@@ -1,6 +1,6 @@
 {
   "name": "ddp-sdk",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "DDP SDK client - thin wrapper around the ddp binary. API key validation runs in native code.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

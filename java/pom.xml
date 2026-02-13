@@ -6,7 +6,7 @@
 
     <groupId>ddp.sdk</groupId>
     <artifactId>ddp-sdk</artifactId>
-    <version>0.1.0</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
     <description>DDP SDK client - thin wrapper around the ddp binary. API key validation runs in native code.</description>
 
